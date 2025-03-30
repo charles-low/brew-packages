@@ -22,6 +22,7 @@ zotero
  - google-chrome
  - visual-studio-code
  - chatgpt
+ - microsoft-edge
 
 # mas-packages
 cli install macos app store packages
