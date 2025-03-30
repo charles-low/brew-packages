@@ -21,6 +21,7 @@ zotero
 ## Casks
  - google-chrome
  - visual-studio-code
+ - chatgpt
 
 # mas-packages
 cli install macos app store packages
